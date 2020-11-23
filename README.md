@@ -15,7 +15,8 @@ Day 1: November 23, 2020
 **Today's Progress:**
 * started Applied Text Mining in Python course on Coursera & watched about half or the first week
 * refreshed String Operations and Handling Larger Text in Python.
-~
+
+```
 [ ] .istitle()
 [ ] .endswith(char)  .startswidth(char)
 [ ] .isupper()  .islower()  .istitle()
@@ -48,10 +49,10 @@ Day 1: November 23, 2020
 
 import re
 [w for w in text if re.search('@[A-Za-z0-9_]+', w)]
-~
+```
 
 * Started reading Natural Language Processing with Python (online) (example mostly from the book)
-~
+```
 import nltk
 nltk.download()
 from nltk.book import *
@@ -65,7 +66,7 @@ tex1.common_contexts(["monstrous", "very]) // examines the contexts that are sha
 // first install matplotlib (for charts)
 from matplotlip import pyplot as plt 
 text4.dispersion_plot(['citizens', 'democracy', 'freedom', 'duties', 'America'])
-~
+```
 
 ![nltk-dispersion-plot](images/nltk-dispersion-plot.png)
 
