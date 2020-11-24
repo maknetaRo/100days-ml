@@ -7,7 +7,49 @@
 * code/learn everyday a bit
 * focus mostly on Natural Language Processing 
 
-Day 1: November 23, 2020
+### Day 2: November 24, 2020
+
+**Plans for Today:**
+* continue the first chapter of NLP book
+or/and
+* at least one video on Coursera
+
+**Today's Progress:**
+* read to part 3.3 NLP with Python Chapter 1 - started learning about Frequency Distributions
+
+```
+// FreqDist - built-in support 
+fdist1 = FreqDist(text1) 
+fdist1.most_common(50) // finds 50 the most common worlds 
+fdist1["whale"] // finds how many times the word is in the text
+
+fdist1.plot(50, cumulative=True) // chart to show the frequency of the most common words
+
+fdist1.hapaxes() // finds the rare words
+
+// how to find words that are more than 15 characters long 
+[w for w in V if len(w) > 15]
+
+// find words that are more than 7 characters long and they are repeated in text more than 7 times
+fdist5 = FreqDist(text5)
+sorted(w for w in set(text5) if len(w) > 7 and fdist5[w] > 7)
+```
+
+
+**Thoughts:**
+* Today I've been a bit tired. I skimmed through the Python lists, slicing and strings. 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* continue chapter 1
+
+**Resources:**
+https://www.nltk.org/book/ch01.html#:~:text=Once%20you've%20installed%20NLTK,collection%20as%20shown%20in%201.1.&text=Figure%201.1%3A%20Downloading%20the%20NLTK,the%20available%20packages%20using%20nltk
+
+
+
+### Day 1: November 23, 2020
 
 **Plans for Today:**
 * check a few links & choose the most interesting
