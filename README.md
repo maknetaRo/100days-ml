@@ -106,7 +106,7 @@ text1.similar("monstrous") // shows words that are used similarly in the text
 tex1.common_contexts(["monstrous", "very]) // examines the contexts that are shared by two or more words 
 
 // first install matplotlib (for charts)
-from matplotlip import pyplot as plt 
+from matplotlib import pyplot as plt 
 text4.dispersion_plot(['citizens', 'democracy', 'freedom', 'duties', 'America'])
 ```
 
