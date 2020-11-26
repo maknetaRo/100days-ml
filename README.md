@@ -7,6 +7,38 @@
 * code/learn everyday a bit
 * focus mostly on Natural Language Processing 
 
+### Day 3: November 26 , 2020
+
+**Plans for Today:**
+* finish chapter 1
+
+**Today's Progress:**
+* finished chapter 1 with exercises
+
+Notes:
+* A **collocation** is a sequence of words that occur together unusually often. 
+
+```
+list(bigrams(["more", "is", "said", "than", "done"])) // checks pairs of words 
+.collocations() // frequent bigrams
+
+fdist.max()
+fdist.freq('monstrous') // frequency of a given sample
+fdist.N() // total number of samples
+fdist1 |= fdist2 // update fdist1 with counts from fdist2
+```
+
+**Thoughts:**
+Coding is the easier part of the NLP. That's true, that thinking about the problem should go first. 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* at least one video on Coursera
+
+**Resources:**
+
+
 ### Day 2: November 24, 2020
 
 **Plans for Today:**
