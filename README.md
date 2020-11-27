@@ -7,6 +7,25 @@
 * code/learn everyday a bit
 * focus mostly on Natural Language Processing 
 
+### Day 4: November , 2020
+
+**Plans for Today:**
+* start chapter 2
+
+**Today's Progress:**
+* started part 1 of ch2 - Accessing Text Corpora (Gutenberg Corpus)
+
+**Thoughts:**
+Pretty interesting but started working on it quite late at night 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* continue Text Corpora part 
+
+**Resources:**
+https://www.nltk.org/book/ch02.html
+
 ### Day 3: November 26 , 2020
 
 **Plans for Today:**
