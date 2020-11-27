@@ -19,6 +19,7 @@
 Pretty interesting but started working on it quite late at night 
 
 **Link to work:**
+https://github.com/maknetaRo/100days-ml/blob/main/exercises/chapter2.py
 
 **Plans for tomorrow:**
 * continue Text Corpora part 
