@@ -7,6 +7,26 @@
 * code/learn everyday a bit
 * focus mostly on Natural Language Processing 
 
+### Day 5: November 28, 2020
+
+**Plans for Today:**
+* continue reading chapter 2 of NLP with Python
+
+**Today's Progress:**
+* read 1.3 and 1.4 of chapter 2 - The Brown Corpus and The Reuters Corpus. 
+* watched a video about Regex from Coursera and read and rewrite code from a part about Regex
+
+**Thoughts:**
+Regex is a bit problematic ;-) 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+* one video from Coursera
+* or some reading of chater 2 NLP with Python
+
+**Resources:**
+
 ### Day 4: November , 2020
 
 **Plans for Today:**

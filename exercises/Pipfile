@@ -9,6 +9,7 @@ verify_ssl = true
 nltk = "*"
 matplotlib = "*"
 numpy = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"
