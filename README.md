@@ -23,15 +23,20 @@
 
 - The assignment is a bit problematic. I think I need to spend more time learning Regex. The exercise is about extracting dates from a lot of data and then sorting the dates. I started using one regex pattern, now need to think about a clean way of using more date patterns.
 
+* I think I need to start the Coursera specialization from the beginning. I need to learn pandas first, I suppose to do some of the exercises.
+
 **Link to work:**
 
 **Plans for tomorrow:**
 
 - Learn more about Regex and try to finish the assignment from Coursera.
+- Start Introduction to Data Science in Python
 
 **Resources:**
 
-- https://docs.python.org/3/library/re.html#
+- https://www.coursera.org/learn/python-data-analysis/home/welcome
+
+* https://docs.python.org/3/library/re.html#
 
 ### Day 5: November 28, 2020
 
